@@ -1,4 +1,6 @@
-## ES6 Features
+## ES6 sample
+
+#### Features
 
 - Arrow Functions
 - Let and Const
