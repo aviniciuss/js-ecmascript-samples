@@ -1,4 +1,4 @@
-const list = [{name: "John"},{name: "Jack"}];
+const list = [{name: 'John'}, {name: 'Jack'}];
 
 for(let data of list) {
     console.log(data);

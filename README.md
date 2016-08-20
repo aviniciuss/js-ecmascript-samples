@@ -1,14 +1,14 @@
-## ES6 sample
+## ES6 Sample Features
 
-#### Features
+> ES6 examples
 
 - Arrow Functions
 - Let and Const
 - Date Format
 - Number Format
-    - Currency 
-    - Number 
-- String 
+    - Currency
+    - Number
+- String
     - String Template
     - Search
 - Collections
@@ -17,7 +17,12 @@
 - Value Default
 - For Of
 - Class and Extends
+- Proxy
+- Reflect
+- Spread Operator
+- Generators
 
 
 #### References
-- https://iojs.org/pt-pt/es6.html
+- [https://developer.mozilla.org/](https://iojs.org/pt-pt/es6.html)
+- [https://developer.mozilla.org](https://developer.mozilla.org)
